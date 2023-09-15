@@ -1,0 +1,1 @@
+You could use JSlice(http://jslice.sourceforge.net/) and Javaslicer(https://github.com/hammacher/javaslicer/) for slicing Java programs, and WET(http://wet.cs.ucr.edu/) for slicing C Programs
